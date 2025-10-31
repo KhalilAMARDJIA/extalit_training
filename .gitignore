@@ -35,8 +35,7 @@ project.lock
 # ========================
 # 💾 Data
 # ========================
-# Raw and split JSONL data (optional: keep sample data)
-assets/*.jsonl
+
 # Keep small demo files (uncomment if you have sample datasets)
 # !assets/sample_*.jsonl
 
