@@ -1,0 +1,310 @@
+This prospective randomized clinical trial compared intensive therapy versus conventional treatment in patients with insulin-dependent diabetes mellitus.
+The DCCT enrolled 1441 volunteers between the ages of 13 and 39 years with diabetes duration of one to fifteen years.
+A total of 266 patients received cilostazol 200 mg per day or placebo in a randomized double-blind placebo-controlled trial.
+The study included 302 subjects randomized to either centralized clinical pharmacy intervention or usual care.
+Patients aged 55 to 80 years were enrolled in the multicenter trial from November 1992 to January 1998.
+The mean age of participants was 65.08 years ranging from 45 to 87 years at baseline.
+One hundred twelve participants aged 75 years and older were recruited for the cardiovascular prevention study.
+The randomized controlled trial was conducted at 26 centers in the United States and 3 centers in Canada.
+Average length of follow-up was 6.5 years with a range of 3 to 9 years.
+Subjects were randomly assigned to conventional or intensive diabetes treatment groups at enrollment.
+The two treatment groups did not differ in mortality or major morbidity secondary to accidents.
+Severe hypoglycemia occurred three times more frequently in the intensive therapy group compared to controls.
+Major adverse cardiovascular events included cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, and hospitalization for heart failure.
+The primary outcome was adherence to clinical practice guidelines for cardiovascular disease management.
+Secondary outcomes included changes in key cardiovascular risk factors and preventative health measures.
+Intensive therapy reduced the occurrence of microalbuminuria by 39 percent in the combined cohorts.
+Albuminuria defined as urinary albumin excretion greater than 300 mg per 24 hours was reduced by 54 percent.
+Clinical neuropathy was reduced by 60 percent with intensive therapy compared to conventional treatment.
+The chief adverse event associated with intensive therapy was a two-to-threefold increase in severe hypoglycemia.
+Patients experienced an increased incidence of becoming overweight during the intensive treatment period.
+Hemoglobin A1c at goal increased from 13.7 percent at baseline to 30.8 percent in the intervention group.
+Blood pressure lowering was significantly better among intervention subjects compared to controls.
+Appropriate statin therapy prescription rates were significantly higher in the intervention group.
+The estimated benefit of the pharmacist intervention was 5.0 percent with 95 percent confidence interval of negative 0.5 to 10.4 percent.
+Body mass index screening rates improved significantly in patients receiving the intervention.
+Peak oxygen uptake increased by 15 percent from baseline during the exercise training regimen.
+Quality of life measurements paralleled improvements in exercise capacity throughout the study period.
+The 10-year survival rate was 70 percent with combined temozolomide chemotherapy and radiation therapy.
+Radiation therapy alone as initial treatment resulted in 47 percent survival at ten years.
+Grade 3 or higher toxicity was more common with temozolomide compared to radiation monotherapy.
+Fatigue, gastrointestinal distress, and myelosuppression were observed adverse events with temozolomide treatment.
+Thrombocytopenia and neutropenia occurred consistent with prior studies of temozolomide.
+No unexpected toxicities were reported with the addition of temozolomide to radiation therapy.
+Pembrolizumab combined with trastuzumab and chemotherapy was approved for HER2-positive gastric cancer treatment.
+Selpercatinib improved progression-free survival in lung cancer patients with RET gene mutations.
+Stereotactic body radiotherapy was effective for localized kidney cancer in patients unable to undergo surgery.
+Daratumumab added to standard treatment extended progression-free survival in newly diagnosed multiple myeloma.
+Minimal residual disease negativity was achieved more frequently with daratumumab-containing regimens.
+Alectinib as adjuvant therapy helped patients live longer without cancer recurrence after surgery.
+The SHAPE trial showed simple hysterectomy may be safe alternative to radical hysterectomy in early cervical cancer.
+Concurrent cisplatin-based chemoradiotherapy improved survival compared to radiation alone in cervical cancer.
+Cisplatin and fluorouracil demonstrated activity as radiation sensitizers in advanced cervical carcinoma.
+Local control and overall survival improved with concurrent chemotherapy and pelvic irradiation.
+Progression-free survival and overall survival were primary endpoints in high-risk cervical cancer patients.
+The CLEAR Wisdom trial examined the safety and efficacy of bempedoic acid for LDL cholesterol reduction.
+Post hoc analyses from REDUCE-IT trial evaluated icosapent ethyl for lowering recurrent cardiovascular events.
+The CREOLE trial compared three different combination antihypertensive therapies in black individuals in sub-Saharan Africa.
+Intensive blood pressure control effects on brain white matter changes were assessed in the INFINITY trial.
+The ICARE study evaluated virtual clinical pharmacy services from a central location in rural primary care.
+Cluster randomization was used to evaluate centralized clinical pharmacist intervention in family medicine offices.
+Dapagliflozin efficacy was evaluated among patients with type 2 diabetes and heart failure.
+The primary endpoint was composite major adverse cardiovascular events during long-term follow-up.
+Major coronary events and major adverse cardiovascular and cerebrovascular events were secondary endpoints.
+Cardiovascular death, hospitalization for heart failure, and unplanned coronary revascularization were assessed.
+Patients were monitored for an average of 1214 days with range of 1161 to 1268 days.
+Exercise training was performed at 60 percent of peak oxygen uptake three times weekly for eight weeks.
+The maintenance phase involved twice weekly exercise sessions for one year following initial training.
+No significant cardiovascular events occurred during the supervised training sessions.
+One patient in the exercise group did not complete protocol due to orthopedic limitations.
+Three patients in the control group decided to withdraw after a few weeks.
+Total of 94 patients completed the protocol including 48 in treatment group and 46 in controls.
+Baseline characteristics were well balanced between groups including peak oxygen uptake and ejection fraction.
+New York Heart Association functional class was comparable between the two study groups.
+Left ventricular ejection fraction did not differ significantly between intervention and control arms.
+Doses of medications and blood chemistry parameters showed no differences at baseline.
+The relative risk and 95 percent confidence intervals were calculated using Cox proportional hazard models.
+Statistical significance was assumed at P value less than or equal to 0.05.
+Data were expressed as mean plus or minus standard deviation throughout the analysis.
+Cardiovascular mortality rate was lower in patients who completed exercise training compared to sedentary controls.
+Total knee replacement resulted in higher number of serious adverse events compared to nonsurgical treatment.
+Both treatment groups had substantial improvement with respect to most clinical outcomes.
+Only 26 percent of patients assigned to nonsurgical treatment underwent knee replacement in the following year.
+Clinically relevant improvements were noted in both surgical and nonsurgical treatment groups.
+Patients undergoing total knee replacement had worse preoperative physical function in Montreal compared to Boston.
+The Boston cohort had more education, lower comorbidity, and more cemented knee prostheses.
+Function and pain did not improve postoperatively to levels achieved by patients with higher preoperative function.
+Surgery performed later in the natural history of functional decline resulted in worse postoperative status.
+Relief of pain was ranked as the most important outcome receiving 46 percent of votes.
+Improved function including mobility received 29 percent of votes in the older patient groups.
+Restored quality of life was identified as a core outcome receiving 13 percent of votes.
+Younger patients aged 36.8 years prioritized quality of life restoration over pain relief.
+Pain, functional improvement, satisfaction, quality of life, and adverse events were core domains for trials.
+Patients with comorbid conditions had higher risk of readmission in the early follow-up period.
+Short-term mortality was elevated in patients with comorbidities undergoing hip or knee replacement.
+Health-related quality of life improvement was similar regardless of comorbid condition presence.
+Functional outcomes and pain relief were comparable between patients with and without comorbidities.
+Risk of revision surgery was higher in patients with comorbid conditions but evidence was weak.
+Publication bias may have led to overestimation of comorbidity impact on surgical outcomes.
+Selection bias was introduced by excluding complex high-risk patients deemed unsuitable for surgery.
+Periprosthetic joint infection occurred in less than 1 percent of cases with modern antibiotic prophylaxis.
+Deep vein thrombosis developed in 1.19 percent of patients receiving total knee or hip replacement.
+Pulmonary embolism can be life-threatening complication when deep vein thrombosis breaks off and travels to lungs.
+Blood thinners were prescribed postoperatively to reduce risk of thromboembolic complications.
+Osteolysis from microscopic debris of prosthetic components caused inflammation and bone destruction.
+Arthrofibrosis with excessive scar tissue formation limited movement of the new joint.
+Annual failure rate of total knee replacements was 0.5 to 1 percent according to orthopedic surgeons.
+Best age for knee replacement was between 70 and 80 years to minimize revision surgery risk.
+The zipper surgical skin closure device was evaluated for reducing wound complications in arthroplasty.
+REDAPT Revision Femoral System monolithic stem outcomes were followed for 10-year period.
+E1 Antioxidant Infused Technology polyethylene liner containing vitamin E was assessed over ten years.
+Closed incision negative pressure therapy was compared to standard dressing for revision arthroplasty wounds.
+Postoperative anticoagulant medication efficacy was evaluated comparing Coumadin, Xarelto, and aspirin.
+The LEGION Hinge Knee system performance was documented over five-year follow-up period.
+Preoperative administration of analgesic medication effect on opioid consumption was studied.
+Patient-centered research infrastructure was developed for symptomatic hip and knee osteoarthritis management.
+Optical coherence tomography-guided stent implantation was compared to angiography-guided approach.
+Superiority of OCT-guided strategy was demonstrated for achieving larger post-PCI lumen dimensions.
+Clinical cardiovascular outcomes improved with OCT guidance in patients with high-risk characteristics.
+This prospective single-blind investigation randomized subjects in one-to-one ratio.
+Up to 3656 randomized subjects and 375 roll-in subjects were enrolled across 125 centers.
+Centers in North America, Europe, Middle East, and Asia-Pacific participated in multicenter trial.
+Kansas City Cardiomyopathy Questionnaire is 12-question multiple-choice survey capturing heart failure symptoms.
+Standardized questionnaire completion at each clinic visit was shown to clinician in intervention arm.
+Health status changes and treatment pattern modifications were evaluated at one year.
+Mavacamten was superior to placebo at improving exercise capacity in obstructive hypertrophic cardiomyopathy.
+Semaglutide reduced cardiovascular events by 20 percent in overweight adults with established cardiovascular disease.
+Patients without diabetes showed cardiovascular benefit from GLP-1 receptor agonist treatment.
+The EXPLORER-HCM trial demonstrated significant improvement in health status with mavacamten therapy.
+Continuous glucose monitoring systems measured glucose levels throughout day and night.
+Self-monitoring blood glucose test systems were used for capillary glucose measurements.
+Fasting plasma glucose and postprandial glucose were assessed as additional efficacy endpoints.
+Hypoglycemia measurement required validated glucose monitoring devices with appropriate accuracy.
+Trial design considerations addressed potential confounding from hypoglycemia awareness variability.
+Insulin pump suspension based on predictive alarm algorithms prevented hypoglycemic episodes.
+Changes at injection site including lipoatrophy and lipoma formation were documented adverse events.
+Insulin allergy, obesity, and increased cancer risk were regarded as adverse events of insulin therapy.
+Needle-phobia and psychological problems were adverse events related to insulin administration.
+Subcutaneous mass formation and insulin leakage rates were significantly lower in observation group.
+Pain scores were significantly reduced with optimized insulin injection techniques.
+Continuous care combined with improved injection education reduced hypoglycemic event frequency.
+Fasting blood glucose and two-hour postprandial glucose decreased significantly in intervention group.
+Blood glucose target time and glycosylated hemoglobin improved with continuous nursing care.
+Radiation dose-volume parameters strongly influenced toxicity events and biomarker analyses.
+Quality assurance adherence was critical for achieving optimal radiation therapy outcomes.
+Inferior outcomes were shown for radiation plans violating protocol specifications in cooperative trials.
+Dose-fractionation schedules and radiation technologies varied widely within standard-of-care options.
+Photon and proton radiation therapy techniques were both considered standard treatment approaches.
+Intensity-modulated radiation therapy facilitated dose escalation while reducing doses to critical structures.
+IMRT and stereotactic body radiation therapy were adopted without prospective randomized trial evidence.
+Complete response was achieved histologically in two of three patients treated with neoadjuvant therapy.
+Progression-free survival of 14 months was observed in patient with complete response.
+Concurrent chemoradiotherapy inevitably increased acute toxicities but not late toxicities significantly.
+Temporal distribution of chemotherapy and radiotherapy impacted local disease control rates.
+Cisplatin-based chemoradiotherapy offered superior disease-free survival in locally advanced cervical cancer.
+High-dose brachytherapy for residual disease achieved higher local control rates.
+Adverse events from brachytherapy remained statistically insignificant despite increased risk concerns.
+Overall survival correlation with intensity-modulated radiation therapy benefits was not necessarily improved.
+Immunotherapy plus radiotherapy offered synergistic antitumor effects with abscopal effect.
+Pembrolizumab plus chemoradiotherapy showed promise as therapeutic option in muscle-invasive bladder cancer.
+Phase III global multicenter double-blind placebo-controlled trial evaluated pembrolizumab efficacy.
+Southwest Oncology Group randomized 475 patients to chemoradiotherapy-based bladder preservation therapy.
+Immune checkpoint inhibitors gradually replaced cisplatin-based chemotherapy as first-line treatment.
+Combination immunotherapy and radiotherapy changed treatment landscape for locally advanced urothelial cancer.
+Randomized trial included 172 patients followed for more than ten years.
+Trial results had immediate clinical impact providing high-level evidence for treatment decisions.
+Enrollment occurred from September 2009 through final patient accrual in study period.
+Patients with low-grade gliomas without prior radiation or chemotherapy were eligible.
+PCV chemotherapy regimen was more difficult to administer than oral temozolomide.
+Intravenous vincristine infusion requirements made PCV less convenient for patients.
+Temozolomide pill form was easier for oncologists to prescribe and less toxic for patients.
+Supporting evidence for temozolomide benefit in grade 2 gliomas was lacking until this trial.
+Society of Neuro-Oncology highlighted discovery at annual meeting late-breaking abstract session.
+National Cancer Institute funded trial through National Clinical Trials Network program.
+ECOG-ACRIN Cancer Research Group membership included nearly 21000 researchers and advocates.
+Approximately 1400 academic medical centers and community hospitals participated in collaborative research.
+Studies spanned cancer care spectrum from early detection to management of advanced disease.
+Cutting-edge genomic approaches were integrated into precision medicine clinical trials.
+Major national trials advanced biomarker research through scientific committee collaboration.
+Randomized phase 3 trial tested combined therapy superiority over radiation monotherapy.
+Both radiation and chemotherapy showed meaningful single-modality anti-tumor activity against gliomas.
+Generic chemotherapy treatment in pill form reduced toxicity compared to alternative regimens.
+Three of five phase III trials failed to achieve minimum patient enrollment.
+Approximately 3 percent of adult cancer patients participated in clinical trials.
+Analysis of 500 Cancer Therapy Evaluation Program trials revealed enrollment challenges.
+Fear of reduced quality of life was cited frequently as barrier to trial participation.
+Concern about receiving placebo treatment discouraged patients from enrolling in studies.
+Potential side effects and experimental treatment concerns limited trial recruitment.
+Lack of physician encouragement actively discouraged more than half of surveyed women.
+Oncologists who recommended trials were usually investigators at their own institutions.
+Inconvenience of trial participation including travel and cost deterred patient enrollment.
+Misconception that control arm offers no treatment reduced willingness to participate.
+Clinical trials were perceived as last-ditch effort after failing conventional treatments.
+Equipoise concept was poorly understood by patients considering trial participation.
+Collaborative research networks coordinated large number of clinical trials through cooperative groups.
+Nine groups focused on adult cancers and one specialized in pediatric malignancies.
+Gynecologic Oncology Group specialized by focusing on women's cancer clinical trials.
+Since 1960s cooperative groups expanded from regional sites to nationwide networks.
+Program accomplishments resulted from direct involvement of clinical investigators and patient families.
+Improved care and outcomes for cancer patients were successes of cooperative group program.
+A prospective randomized clinical trial was conducted at eight sites in the United States comparing multifocal and monofocal intraocular lenses.
+The study included 245 cataract patients who underwent bilateral implantation of intraocular lenses.
+Participants aged 55 to 80 years were enrolled in the multicenter clinical trial from November 1992 to January 1998.
+The mean age of patients was 65.08 years with a range from 45 to 87 years.
+Best corrected visual acuity improved from 0.56 logMAR preoperatively to 0.02 logMAR at one year follow-up.
+Uncorrected distance visual acuity was 0.19 logMAR at six months after surgery.
+Visual acuity improved by 0.25 logMAR units in the operated group compared to controls.
+The AcrySof IQ PanOptix intraocular lens demonstrated excellent postoperative visual outcomes.
+Patients implanted with the Tecnis ZCT toric intraocular lens showed significant reduction in corneal astigmatism.
+The ReZoom multifocal intraocular lens was associated with reports of halos and glare.
+Two patients in the intervention group experienced mild glare at the six-month postoperative visit.
+Posterior capsular rupture occurred in 8.5% of cases during phacoemulsification.
+There were no intraoperative complications such as posterior capsule tear or vitreous loss.
+Corneal edema was observed in 46% of patients in the early postoperative period.
+Transient central corneal edema developed in four of eight eyes postoperatively.
+Cystoid macular edema was more common with intracapsular cataract extraction at 4.2% versus 1.6%.
+Posterior capsular opacification occurred in all 34 eyes requiring Nd:YAG laser capsulotomy.
+Visual axis obscuration developed in one eye requiring membranectomy four months postoperatively.
+Increased intraocular pressure was observed temporarily in seven eyes and was well controlled with topical antiglaucoma agents.
+Two eyes developed glaucoma over the 12-month follow-up period.
+Retinal detachment occurred after vitrectomy in two patients.
+IOL decentration and dislocation were documented as late postoperative complications.
+Anterior chamber inflammation was evaluated according to standardized flare and cell grading criteria.
+Four eyes developed moderate anterior chamber reaction that resolved with topical corticosteroids.
+Posterior synechiae formation was comparable between the study groups.
+Fibrin reaction in the anterior chamber required intensive steroid therapy.
+Descemet's membrane detachment was not observed in any of the operated eyes.
+Persistent corneal opacification required penetrating keratoplasty in severe cases.
+Endothelial cell loss was measured using specular microscopy at regular intervals.
+Central corneal thickness increased from baseline measurements in diabetic patients.
+Mean cumulative dissipated energy was 32.44 units during phacoemulsification.
+Ultrasound time and energy consumption were recorded as primary safety outcomes.
+The randomized controlled trial had a follow-up period of 12 months.
+This retrospective case series included 78 patients aged 90 years or older.
+A total of 3,400 bilaterally vision-impaired patients aged 40 to 75 years were randomly assigned to treatment groups.
+The study comprised 61 children with a mean age of 14.8 months in the experimental group.
+One hundred twelve participants aged 75 years and older were recruited at baseline.
+The prospective cohort study enrolled 673 highly myopic eyes with axial length of 26 mm or greater.
+A sample of 306 women over 70 years old with bilateral cataracts was randomized to surgery groups.
+Twenty-seven consecutive eyes of 18 patients with mean age 66.1 years underwent toric IOL implantation.
+The trial included 401 patients who were randomly assigned into three surgical technique groups.
+Surgical outcomes were analyzed in 176 eyes of 176 patients over an eight-year period.
+Double-masked clinical trial design was used to evaluate treatment outcomes.
+The prospective observational cohort study assessed cognition and mood changes postoperatively.
+This nonmasked randomized controlled clinical trial was conducted at a single hospital.
+Subjects in the intervention group were younger than controls with a mean age difference.
+Approximately 60% of patients undergoing cataract surgery have more than 0.75 diopters of corneal astigmatism.
+Eyes without age-related macular degeneration gained 8.4 letters of visual acuity.
+Patients with mild AMD gained 6.1 letters and those with moderate AMD gained 3.9 letters postoperatively.
+Eyes with advanced age-related macular degeneration gained 1.9 letters after cataract surgery.
+The hydrophobic acrylic monofocal IOL NS-60YG provided satisfactory visual outcomes.
+Three-piece hydrophobic acrylic intraocular lenses were implanted in the capsular bag.
+Single-piece PMMA rigid IOL with 5.25 mm optic was used due to cost considerations.
+Foldable hydrophilic IOL including Humanoptics MC X11 ASP was implanted in highly myopic eyes.
+Six models of toric IOLs from SN6AT3 to SN6AT8 were evaluated in the study.
+The AcrySof MA60BM with 5.5 mm optic diameter was implanted through a 4.5 mm capsulorhexis.
+Patients receiving multifocal IOLs reported better overall vision and less spectacle dependency.
+Stereopsis improvement was significantly better in patients who underwent bilateral cataract surgery.
+Quality-adjusted life years were measured using the EuroQol EQ-5D instrument.
+Self-reported visual function was assessed using the Catquest-9SF questionnaire.
+Cognition was evaluated using the revised Addenbrooke's Cognitive Examination.
+Mood was measured with the 15-item Geriatric Depression Scale.
+Visual hallucinations were assessed using the North East Visual Hallucinations Inventory.
+The Hoffer Q formula showed no significant statistical difference in refractive error prediction.
+Holladay 1 and Holladay 2 formulas demonstrated comparable accuracy for IOL power calculation.
+The SRK/T formula was used for intraocular lens power determination in all patients.
+Sophisticated biometry and lens power calculation formulas improved surgical outcomes.
+Image-guided digital marking systems enhanced accuracy of toric IOL alignment.
+Anterior segment optical coherence tomography was used to evaluate corneal changes.
+Specular microscopy measured endothelial cell density before and after surgery.
+Pachymetry documented central corneal thickness at multiple postoperative time points.
+Confocal microscopy provided detailed imaging of corneal microstructure.
+Fundus photography was graded using standardized protocols at the reading center.
+A-scan biometry measured axial length and calculated ideal IOL power.
+Goldmann applanation tonometry was used for intraocular pressure measurement.
+Continuous curvilinear capsulorhexis with diameter slightly smaller than IOL optic was performed.
+Phacoemulsification was performed using the stop and chop technique.
+Complete removal of the posterior capsule was performed to prevent visual axis opacification.
+Posterior capsular polishing was routinely performed after cortical removal.
+Primary posterior curvilinear capsulorhexis was combined with phacoemulsification in adult patients.
+Anterior vitrectomy was necessary in cases of posterior capsule rupture.
+Pars plana vitrectomy was performed for removal of dislocated lens fragments.
+Nd:YAG laser capsulotomy was the treatment of choice for posterior capsular opacification.
+The mean laser energy used for capsulotomy ranged from 45 to 120 millijoules.
+Scleral tunnel incision was created tangential to the limbus for phacoemulsification.
+Clear corneal incisions measuring 2.6 mm were made temporally.
+The surgical incision was hydrated and no sutures were required.
+Viscoelastic substance DisCoVisc was injected to maintain anterior chamber depth.
+Internal limiting membrane peeling was performed in cases of macular hole.
+Stop and chop technique directed all forces to the center of the nucleus.
+Intraocular lens was captured through the posterior capsulorhexis for better stability.
+Optic capture of the IOL was achieved in 83.9% of pediatric cases.
+In-the-bag capsular fixation of both optic and haptic was preferred.
+Postoperative medication included levofloxacin and prednisolone acetate four times daily for four weeks.
+Topical corticosteroids were administered intensively in cases of toxic anterior segment syndrome.
+Timolol maleate 0.5% eye drops twice daily were added for elevated intraocular pressure.
+Pranoprofen anti-inflammatory drops were prescribed as part of routine postoperative care.
+Combined phacoemulsification and vitrectomy was performed for epiretinal membrane removal.
+Visual function scores improved dramatically in both surgical groups.
+Falls and fracture risk were reduced significantly after first eye cataract surgery.
+Complex visual hallucinations resolved completely in two patients after surgery.
+Cognitive function improved with a mean gain of 1.7 points on the ACE-R scale.
+The annual cost of Nd:YAG capsulotomy in the United States was estimated at 250 million dollars.
+Incremental cost-utility ratio was calculated at 44,263 pounds over the one-year trial period.
+Cost-effectiveness analysis showed favorable outcomes when modeled over patients' expected lifetime.
+Hospital follow-up rates and surgery acceptance were measured as study outcomes.
+Patients received questionnaires before surgery and at six months and one year postoperatively.
+Vision-related quality of life measurements showed sustained improvement at 18-month follow-up.
+The rate of reoperation for visual axis obscuration was less than 3%.
+No cases of endophthalmitis were observed during the follow-up period.
+Iris hemorrhage and iritis were uncommon complications of laser capsulotomy.
+Macular hole formation occurred rarely as a complication of Nd:YAG treatment.
+Overall visual acuity improvement rate was 67.8% in patients aged 90 years and older.
+Dry age-related macular degeneration was present in 47.4% of very elderly patients.
+Open-angle glaucoma was documented as a comorbidity in 24.4% of cases.
+Twenty-eight percent of patients had no ocular comorbidities at the time of surgery.
+Zonular dialysis risk was increased in eyes with pseudoexfoliation syndrome.
+Phacodonesis and anterior chamber depth asymmetry indicated zonular weakness.
+Surgically induced astigmatism was minimized through improved wound construction techniques.
+Rotational stability of toric IOLs was excellent throughout the long-term follow-up.
+Power vector analysis demonstrated significant correction of oblique astigmatism.

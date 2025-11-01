@@ -84,3 +84,13 @@ commands:
       - "scripts/visualize_data.py"
       - "assets/train.jsonl"
       - "assets/dev.jsonl"
+  - name: "autolabel"
+    help: "Use the trained model to automatically annotate unlabeled sentences (weak supervision)"
+    script:
+      - "python scripts/autolabel.py"
+    deps:
+      - "scripts/autolabel.py"
+      - "training/model-best"
+      - "assets/unlabeled_sentences.txt"
+    outputs:
+      - "assets/raw_data_autolabel.jsonl"
