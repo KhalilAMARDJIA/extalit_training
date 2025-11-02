@@ -94,3 +94,11 @@ commands:
       - "assets/unlabeled_sentences.txt"
     outputs:
       - "assets/raw_data_autolabel.jsonl"
+  - name: "see_autolabel"
+    help: "Upload autolabeled data to Argilla and open the web interface"
+    script:
+      - "python scripts/upload_to_argilla.py"
+      - "python -m webbrowser http://192.168.1.185:6900"
+    deps:
+      - "scripts/upload_to_argilla.py"
+      - "assets/raw_data_autolabel.jsonl"
